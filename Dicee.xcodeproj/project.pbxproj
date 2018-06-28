@@ -15,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		612CE71020DC03B900A4266D /* Dicee copy-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "Dicee copy-Info.plist"; path = "/Users/jonathanlo/Documents/dicee/Dicee copy-Info.plist"; sourceTree = "<absolute>"; };
 		615901082054A3950086D760 /* Dicee.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Dicee.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6159010B2054A3950086D760 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		6159010D2054A3950086D760 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -40,6 +41,7 @@
 			children = (
 				6159010A2054A3950086D760 /* Dicee */,
 				615901092054A3950086D760 /* Products */,
+				612CE71020DC03B900A4266D /* Dicee copy-Info.plist */,
 			);
 			sourceTree = "<group>";
 		};
