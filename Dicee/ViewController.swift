@@ -24,7 +24,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         updateDiceImages()
         
-//        let square = UIView(frame: CGRect(x:0, y: 0, width: 50, height: 50)) comment
+//        let square = UIView(frame: CGRect(x:0, y: 0, width: 50, height: 50))
 //        let square = UIView(frame: CGRect(x:self.view.frame.width/2 - 25, y: self.view.frame.height/2 - 25, width: 50, height: 50))
 //        square.backgroundColor = UIColor.red
 //        self.view.addSubview(square)
